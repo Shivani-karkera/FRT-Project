@@ -19,16 +19,26 @@ In this project I have developed an E-commerce Website – Naari which is an onl
 
 
 
-Operating System: Windows 10
+Operating System          : Windows 10
 
-Programming Languages: HTML5, CSS3, Javascript
+Programming Languages     : HTML5, CSS3, Javascript
 
-IDE: Visual Studio Code
+IDE                       : Visual Studio Code
 
-Azure Services: QnA Maker, Azure Static Apps, Azure Bot Service, App Service, Microsoft Azure portal.
+Azure Services            : QnA Maker, Azure Static Apps, Azure Bot Service, App Service, Microsoft Azure portal.
 
-GITHUB REPOSITORY URL: https://github.com/Shivani-karkera/FRT-Project
+GITHUB REPOSITORY URL     : https://github.com/Shivani-karkera/FRT-Project
 
-Website: https://witty-mud-0b6bbdc10.1.azurestaticapps.net
+Website                   : https://witty-mud-0b6bbdc10.1.azurestaticapps.net
 
-YouTube Demo:
+YouTube Demo              : https://youtu.be/uWVfEaECiEo
+
+
+
+![Screenshot (363)](https://user-images.githubusercontent.com/69305305/155925045-c02abd53-c3f1-414e-9001-cf9845d1ad4a.png)
+
+
+![Screenshot (362)](https://user-images.githubusercontent.com/69305305/155925072-dc412fce-e277-4651-9353-c9de8430e614.png)
+
+
+
